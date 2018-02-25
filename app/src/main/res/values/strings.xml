@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">RIFYANDARU_1202150088_MODUL3</string>
+    <string name="log_in">Log In</string>
+
+    <array name="labels_array">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+
+    <array name="labels_array_item">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Leminerale</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+    </array>
+
+    <array name="labels_array_info">
+        <item>Ini air mineral Ades</item>
+        <item>Ini air mineral Amidis</item>
+        <item>Ini air mineral Aqua</item>
+        <item>Ini air mineral Cleo</item>
+        <item>Ini air mineral Club</item>
+        <item>Ini air mineral Equil</item>
+        <item>Ini air mineral Evian</item>
+        <item>Ini air mineral Leminerale</item>
+        <item>Ini air mineral Nestle</item>
+        <item>Ini air mineral Pristine</item>
+        <item>Ini air mineral Vit</item>
+    </array>
+
+    <array name="labels_array_detail">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+            vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+            odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+            tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+            massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+            molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+            posuere, bibendum id lorem.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+            vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+            odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+            tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+            massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+            molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+            posuere, bibendum id lorem.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+            vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+            odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+            tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+            massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+            molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+            posuere, bibendum id lorem.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+            vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+            odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+            tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+            massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+            molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+            posuere, bibendum id lorem.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+            vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+            odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+            tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+            massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+            molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+            posuere, bibendum id lorem.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+            vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+            odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+            tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+            massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+            molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+            posuere, bibendum id lorem.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+            vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+            odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+            tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+            massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+            molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+            posuere, bibendum id lorem.
+        </item>
+    </array>
+
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+        vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+        odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+        tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+        massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+        molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+        posuere, bibendum id lorem.</string>
+    <string name="info_placeholder">Ini adalah air mineral</string>
+    <string name="air_label">Air</string>
+</resources>
